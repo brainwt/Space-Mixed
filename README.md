@@ -1,2 +1,2 @@
 # BE-mixed
-the degree of mixing of building space uses
+quantification of the degree of mixed building space uses
